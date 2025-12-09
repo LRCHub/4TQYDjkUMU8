@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "FINALIST",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-09T11:13:26.039114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FINALIST",
+      "artist": "UVERworld feat. ANARCHY",
+      "has_synced": true,
+      "path": "select/01_FINALIST_UVERworld_feat._ANARCHY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FINALIST",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/02_FINALIST_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FINALIST (feat. ANARCHY)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/03_FINALIST_(feat._ANARCHY)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Finalist",
+      "artist": "Rainbow Kitten Surprise",
+      "has_synced": true,
+      "path": "select/04_Finalist_Rainbow_Kitten_Surprise.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lovers Again -The Finalist Version- [Live]",
+      "artist": "EXILE",
+      "has_synced": false,
+      "path": "select/05_Lovers_Again_-The_Finalist_Version-_[Live]_EXILE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mad About You - The Voice Australia 2021 / Grand Finalist Original",
+      "artist": "G-Nat!on",
+      "has_synced": true,
+      "path": "select/06_Mad_About_You_-_The_Voice_Australia_2021___Grand_Finalist_Original_G-Nat!on.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Finalist",
+      "artist": "Touché Amoré",
+      "has_synced": false,
+      "path": "select/07_Finalist_Touché_Amoré.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Higher (The Voice Australia 2021 / Grand Finalist Original)",
+      "artist": "Bella Taylor Smith",
+      "has_synced": true,
+      "path": "select/08_Higher_(The_Voice_Australia_2021___Grand_Finalist_Original)_Bella_Taylor_Smith.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FINALIST(feat.ANARCHY)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_FINALIST(feat.ANARCHY)_UVERworld.txt"
+    }
+  ]
+}
